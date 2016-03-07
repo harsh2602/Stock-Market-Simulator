@@ -1,0 +1,462 @@
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\roslyn\csc.exe
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\roslyn\System.Collections.Immutable.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\roslyn\System.Reflection.Metadata.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\roslyn\vbc.exe
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\roslyn\VBCSCompiler.exe
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\roslyn\VBCSCompiler.exe.config
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\StockMarketSimulator.dll.config
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\StockMarketSimulator.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\StockMarketSimulator.pdb
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Antlr3.Runtime.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\AspNet.ScriptManager.bootstrap.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\AspNet.ScriptManager.jQuery.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\EntityFramework.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\EntityFramework.SqlServer.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.FriendlyUrls.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Identity.Core.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Cookies.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Facebook.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Google.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.OAuth.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Twitter.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.ScriptManager.MSAjax.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.ScriptManager.WebForms.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Web.Infrastructure.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Newtonsoft.Json.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Owin.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\System.Web.Optimization.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\System.Web.Providers.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\WebGrease.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\System.Web.Optimization.xml
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Antlr3.Runtime.pdb
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Newtonsoft.Json.xml
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.FriendlyUrls.xml
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\EntityFramework.xml
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\EntityFramework.SqlServer.xml
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Identity.Core.xml
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\System.Web.Providers.xml
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.xml
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.xml
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Facebook.xml
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Cookies.xml
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Google.xml
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Twitter.xml
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.OAuth.xml
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\obj\Debug\StockMarketSimulator.dll
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\obj\Debug\StockMarketSimulator.pdb
+I:\ASP.NET Tutorial\StockMarketSimulator\StockMarketSimulator\obj\Debug\StockMarketSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\roslyn\csc.exe
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\roslyn\vbc.exe
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\roslyn\VBCSCompiler.exe
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\StockMarketSimulator.dll.config
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\StockMarketSimulator.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\StockMarketSimulator.pdb
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Antlr3.Runtime.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\EntityFramework.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\EntityFramework.SqlServer.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Newtonsoft.Json.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Owin.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\System.Web.Optimization.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\System.Web.Providers.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\WebGrease.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Newtonsoft.Json.xml
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\System.Web.Optimization.xml
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Antlr3.Runtime.pdb
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\EntityFramework.xml
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\EntityFramework.SqlServer.xml
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\System.Web.Providers.xml
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.xml
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.xml
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\obj\Debug\StockMarketSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\obj\Debug\StockMarketSimulator.dll
+C:\Users\Enrique\Desktop\StockMarketSimulator\StockMarketSimulator\obj\Debug\StockMarketSimulator.pdb
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\csc.exe
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\vbc.exe
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\StockMarketSimulator.dll.config
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\StockMarketSimulator.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\StockMarketSimulator.pdb
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Antlr3.Runtime.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\EntityFramework.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\EntityFramework.SqlServer.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Newtonsoft.Json.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Owin.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\System.Web.Optimization.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\System.Web.Providers.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\WebGrease.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Newtonsoft.Json.xml
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\System.Web.Optimization.xml
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Antlr3.Runtime.pdb
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\EntityFramework.xml
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\EntityFramework.SqlServer.xml
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\System.Web.Providers.xml
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.xml
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.xml
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\obj\Debug\StockMarketSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\obj\Debug\StockMarketSimulator.dll
+C:\Users\Gabe\Desktop\repo\Code\Enrique_Solution\StockMarketSimulator\StockMarketSimulator\obj\Debug\StockMarketSimulator.pdb
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\csc.exe
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\vbc.exe
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\StockMarketSimulator.dll.config
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\StockMarketSimulator.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\StockMarketSimulator.pdb
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Antlr3.Runtime.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\EntityFramework.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\EntityFramework.SqlServer.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Newtonsoft.Json.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Owin.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\System.Web.Optimization.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\System.Web.Providers.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\WebGrease.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Newtonsoft.Json.xml
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\System.Web.Optimization.xml
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Antlr3.Runtime.pdb
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\EntityFramework.xml
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\EntityFramework.SqlServer.xml
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\System.Web.Providers.xml
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.xml
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.xml
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\obj\Debug\StockMarketSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\obj\Debug\StockMarketSimulator.dll
+C:\Users\Gabe\Desktop\repo\Code\Solution\StockMarketSimulator\StockMarketSimulator\obj\Debug\StockMarketSimulator.pdb
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\csc.exe
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\vbc.exe
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\VBCSCompiler.exe
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\StockMarketSimulator.dll.config
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\StockMarketSimulator.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\StockMarketSimulator.pdb
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Antlr3.Runtime.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\EntityFramework.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\EntityFramework.SqlServer.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Newtonsoft.Json.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Owin.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\System.Web.Optimization.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\System.Web.Providers.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\WebGrease.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Newtonsoft.Json.xml
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\System.Web.Optimization.xml
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Antlr3.Runtime.pdb
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\EntityFramework.xml
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\EntityFramework.SqlServer.xml
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\System.Web.Providers.xml
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.xml
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.xml
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\obj\Debug\StockMarketSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\obj\Debug\StockMarketSimulator.dll
+C:\Users\Enrique\Desktop\CS440\Code\Solution\StockMarketSimulator\StockMarketSimulator\obj\Debug\StockMarketSimulator.pdb
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\roslyn\csc.exe
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\roslyn\vbc.exe
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\StockMarketSimulator.dll.config
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\StockMarketSimulator.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\StockMarketSimulator.pdb
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Antlr3.Runtime.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\EntityFramework.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\EntityFramework.SqlServer.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.Security.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Newtonsoft.Json.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Owin.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\System.Web.Optimization.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\System.Web.Providers.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\WebGrease.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Newtonsoft.Json.xml
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\System.Web.Optimization.xml
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Antlr3.Runtime.pdb
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\EntityFramework.xml
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\EntityFramework.SqlServer.xml
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\System.Web.Providers.xml
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.xml
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.Security.xml
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\obj\Debug\StockMarketSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\obj\Debug\StockMarketSimulator.dll
+C:\Users\Gabe\Desktop\repo\Code\GabeSolution\StockMarketSimulator\obj\Debug\StockMarketSimulator.pdb
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\obj\Debug\StockMarketSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\obj\Debug\StockMarketSimulator.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\obj\Debug\StockMarketSimulator.pdb
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\roslyn\csc.exe
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\roslyn\vbc.exe
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\roslyn\VBCSCompiler.exe
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\StockMarketSimulator.dll.config
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\StockMarketSimulator.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\StockMarketSimulator.pdb
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Antlr3.Runtime.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\EntityFramework.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\EntityFramework.SqlServer.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.Security.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Newtonsoft.Json.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Owin.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\System.Web.Optimization.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\System.Web.Providers.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\WebGrease.dll
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Newtonsoft.Json.xml
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\System.Web.Optimization.xml
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Antlr3.Runtime.pdb
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\EntityFramework.xml
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\EntityFramework.SqlServer.xml
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\System.Web.Providers.xml
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.xml
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.Security.xml
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Enrique\Desktop\CS440\Code\GabeSolution\StockMarketSimulator\bin\Microsoft.Owin.Security.OAuth.xml

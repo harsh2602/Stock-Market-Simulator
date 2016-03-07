@@ -1,0 +1,1 @@
+﻿declare @id as int
